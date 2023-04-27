@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SzHbq
-- 👀 I’m interested in Making games.
-- 🌱 I’m currently learning Making games.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🎮游戏制作人。
+
+😺是清梦飞天宝
+❤喜欢永雏塔菲。
+
 
 <!---
 SzHbq/SzHbq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
